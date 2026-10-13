@@ -1,0 +1,17 @@
+
+# Visual Studio 本地配置与缓存
+.vs/
+
+# 编译生成的文件
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.exe
+
+# 用户本地配置
+*.user
+*.suo
